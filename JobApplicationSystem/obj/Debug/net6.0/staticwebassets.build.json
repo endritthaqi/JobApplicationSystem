@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/fCgfTXKLEBTHGLUgqQuy8WyXGS6A7HyLJ558Lru9WE=",
+  "Source": "JobApplicationSystem.WebApi",
+  "BasePath": "_content/JobApplicationSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
