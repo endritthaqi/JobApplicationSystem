@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Endrit\\Desktop\\software design\\JobApplicationSystem\\JobApplicationSystem.csproj": {}
+    "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem\\JobApplicationSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Endrit\\Desktop\\software design\\JobApplicationSystem\\JobApplicationSystem.csproj": {
+    "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem\\JobApplicationSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Endrit\\Desktop\\software design\\JobApplicationSystem\\JobApplicationSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem\\JobApplicationSystem.csproj",
         "projectName": "JobApplicationSystem",
-        "projectPath": "C:\\Users\\Endrit\\Desktop\\software design\\JobApplicationSystem\\JobApplicationSystem.csproj",
+        "projectPath": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem\\JobApplicationSystem.csproj",
         "packagesPath": "C:\\Users\\Endrit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Endrit\\Desktop\\software design\\JobApplicationSystem\\obj\\",
+        "outputPath": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Endrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,18 +41,6 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[6.0.19, )"
-            },
-            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
-              "target": "Package",
-              "version": "[6.0.19, )"
-            },
-            "Microsoft.Identity.Web": {
-              "target": "Package",
-              "version": "[1.16.0, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

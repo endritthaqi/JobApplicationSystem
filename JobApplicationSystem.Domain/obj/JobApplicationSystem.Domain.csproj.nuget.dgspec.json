@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Endrit\\Desktop\\Dizajnimi softuerit\\JobApplicationSystem\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj": {}
+    "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Endrit\\Desktop\\Dizajnimi softuerit\\JobApplicationSystem\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj": {
+    "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Endrit\\Desktop\\Dizajnimi softuerit\\JobApplicationSystem\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj",
         "projectName": "JobApplicationSystem.Domain",
-        "projectPath": "C:\\Users\\Endrit\\Desktop\\Dizajnimi softuerit\\JobApplicationSystem\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem.Domain\\JobApplicationSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\Endrit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Endrit\\Desktop\\Dizajnimi softuerit\\JobApplicationSystem\\JobApplicationSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Endrit\\Desktop\\PREJ FILLIMI\\JobApplicationSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Endrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,34 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
